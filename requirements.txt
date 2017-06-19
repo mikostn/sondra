@@ -5,6 +5,7 @@ click==6.2
 docutils==0.12
 Flask==0.10.1
 Flask-Cors==2.1.2
+flask-compress
 iso8601==0.1.11
 itsdangerous==0.24
 Jinja2==2.8
@@ -17,6 +18,7 @@ Pygments==2.0.2
 PyJWT==1.4.0
 pytest==2.8.5
 python-slugify==1.1.4
+pytz
 requests==2.9.0
 rethinkdb==2.2.0.post1
 Shapely==1.5.13

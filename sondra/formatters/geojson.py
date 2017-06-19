@@ -1,6 +1,8 @@
 import json
 
-from sondra import collection, document
+# from sondra import collection, document
+from sondra import document
+
 from sondra.document.schema_parser import Geometry
 from sondra.utils import mapjson
 
