@@ -4,6 +4,7 @@ setup(
     name='sondra',
     packages=[
        'sondra',
+       'sondra.api',
        'sondra.auth',
        'sondra.commands',
        'sondra.application',
