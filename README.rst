@@ -53,7 +53,7 @@ Installation
 ============
 
 ::
-
+    $ sudo apt-get install libgeos-dev libffi-dev
     $ python setup.py
 
 Contribute
